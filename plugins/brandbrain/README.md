@@ -20,6 +20,7 @@ From a shell: `claude plugin marketplace add toyobam92/brandbrain-cloud && claud
 ```
 /brandbrain help
 /brandbrain effects bold-pop
+/brandbrain fx checklist
 /brandbrain music upbeat
 /brandbrain sfx whoosh at 1.5
 /brandbrain schedule friday 7pm
@@ -30,6 +31,7 @@ Attach a video first (drag it in, or `@` the file), or it uses your newest uploa
 ## What it does
 
 - `effects`, `clean`, `broll`: styles the clip (captions, logo, optional look such as `warm-golden`). The original is never changed; the result is saved as v2 next to it.
+- `fx` and `fx <effect>`: 17 motion effects (checklist, phone, chart, cover story, glass type, orbit, green screen and more), only when you ask; bare `fx` suggests two or three that suit the clip.
 - `captions <preset>`: brand, bold-pop, box-highlight, karaoke, clean-minimal.
 - `music <mood>`: three CC0 tracks to pick from, then mixed under your voice.
 - `sfx <name> at <seconds>`: one CC0 sound effect at that moment.

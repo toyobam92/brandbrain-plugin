@@ -18,6 +18,7 @@ Then run `/mcp` once and sign in to Brand Brain.
 ```
 /brandbrain help
 /brandbrain effects bold-pop
+/brandbrain fx checklist
 /brandbrain music upbeat
 /brandbrain sfx whoosh at 1.5
 /brandbrain schedule friday 7pm
