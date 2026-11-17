@@ -1,0 +1,20 @@
+{
+  "name": "brandbrain",
+  "version": "0.1.0",
+  "description": "One command, /brandbrain <words>: style a clip, add music or a sound effect, set captions, and schedule it after your yes. Connects the Brand Brain MCP server (sign in on first use).",
+  "author": {
+    "name": "FOWL AI",
+    "url": "https://brain.fowl-ai.com"
+  },
+  "homepage": "https://brain.fowl-ai.com/developers#claude-code-plugin",
+  "keywords": [
+    "brand",
+    "video",
+    "captions",
+    "music",
+    "social",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://brain.fowl-ai.com/privacy",
+  "icon": ".claude-plugin/icon.png"
+}

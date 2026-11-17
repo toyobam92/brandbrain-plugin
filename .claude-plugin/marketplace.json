@@ -1,0 +1,19 @@
+{
+  "name": "fowl-ai",
+  "owner": {
+    "name": "FOWL AI",
+    "url": "https://brain.fowl-ai.com"
+  },
+  "metadata": {
+    "description": "Brand Brain for Claude Code: one /brandbrain command for your brand's videos, music, captions and calendar."
+  },
+  "plugins": [
+    {
+      "name": "brandbrain",
+      "source": "./plugins/brandbrain",
+      "description": "One command, /brandbrain <words>: style a clip, add music or a sound effect, set captions, and schedule it after your yes. Connects the Brand Brain MCP server (sign in on first use).",
+      "version": "0.1.0",
+      "homepage": "https://brain.fowl-ai.com/developers#claude-code-plugin"
+    }
+  ]
+}
